@@ -35,8 +35,7 @@ export class GoogleAuthService{
 		private http : Http
 	){}
 
-	checkStatus(){
-
+	getAuthInstance(){
+		return gapi.auth2.getAuthInstance();
 	}
-
 }
