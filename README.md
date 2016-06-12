@@ -6,3 +6,5 @@ The goal is to build a set of high-quality Authentication components built with 
   * Straightforward APIs that don't confuse developers.
   * Behave as expected across a wide variety of use-cases without bugs.
   * Performance cost is minimized.
+
+All the contributions are welcomed. :)
