@@ -13,3 +13,9 @@
 # misc
 .DS_Store
 npm-debug.log
+
+# manual testing files
+sec.gulpfile.js
+index.html
+systemjs.config.js
+main.ts
