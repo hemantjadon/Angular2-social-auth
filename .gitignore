@@ -1,4 +1,15 @@
-node_modules/
-typings/
-app/build
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# compiled output
+/dist
+/typings
+
+# dependencies
+/node_modules
+
+# IDEs
+/.idea
+
+# misc
+.DS_Store
 npm-debug.log
