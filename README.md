@@ -10,3 +10,5 @@ The goal is also to build the components for all the OAuth providers.
   * Performance cost is minimized.
 
 All the contributions are welcomed. :)
+
+Please see the issue ; start conversation [https://github.com/hemantjadon/Angular2-social-auth/issues/1].
